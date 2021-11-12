@@ -1,5 +1,6 @@
 ### Ola Muito Prazer, Leopoldo 👋
 
+### "Nao é a linguagem de programaçao que define o programador, mas sim sua logica" - (David Ribeiro Guilherme).
 
 
 <div>
