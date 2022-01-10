@@ -16,7 +16,7 @@
   <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="PYTHON" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
+  <img align="center" alt="DOTNET" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
  
  
 </div>
